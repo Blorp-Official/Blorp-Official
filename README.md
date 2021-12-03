@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Blorp-Official
+- 👀 I’m interested in Snorain OS (https://snorain.netlify.app)
+- 🌱 I’m currently learning Assembly
+- 💞️ I’m looking to collaborate on Snorain OS if you want!
+- 📫 How to reach me (https://discord.gg/y3fZMfEJrX)
